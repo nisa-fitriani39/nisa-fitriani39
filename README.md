@@ -15,6 +15,12 @@
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
   </a>
   <img width="12" />
+
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
+  </a>
+  <img width="12" />
   
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
