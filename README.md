@@ -58,12 +58,6 @@
   </a>
   <img width="12" />
 
-  <!-- Go -->
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
-  </a>
-  <img width="12" />
-
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
