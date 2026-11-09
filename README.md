@@ -87,12 +87,6 @@
   </a>
   <img width="12" />
 
-  <!-- Postman / API -->
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="api logo" />
-  </a>
-  <img width="12" />
-
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
@@ -102,6 +96,35 @@
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Kiro -->
+  <a href="https://kiro.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/lobe-icons/public/icons/kiro.svg" height="50" alt="kiro logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Google Antigravity -->
+  <a href="https://ailogocollection.com/logos/google-antigravity" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/lobe-icons/public/icons/antigravity.svg" height="50" alt="antigravity logo" />
+  </a>
+  <img width="12" />
+
+  <!-- ChatGPT (GPT) -->
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=openai" height="50" alt="chatgpt logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Claude AI -->
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/lobe-icons/public/icons/claude.svg" height="50" alt="claude logo" />
   </a>
 </div>
 
@@ -114,14 +137,15 @@
   <a href="https://www.instagram.com/a.sya25_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+  <a href="mailto:khoirunnisafitriani094@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=nisa-fitriani39&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  
-  <img src="https://github-profile-readme-trophy.vercel.app/?username=nisa-fitriani39&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 ###
