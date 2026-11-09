@@ -3,9 +3,10 @@
 ###
 
 <div data-importer="techs" align="center">
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+
+  <!-- React.js -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   </a>
   <img width="12" />
 
@@ -14,16 +15,22 @@
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
   </a>
   <img width="12" />
+  
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  </a>
+  <img width="12" />
 
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
   </a>
   <img width="12" />
-
-  <!-- Storybook -->
-  <a href="https://storybook.js.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo" />
+  
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
   </a>
   <img width="12" />
 
@@ -63,6 +70,12 @@
   </a>
   <img width="12" />
 
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
+  </a>
+  <img width="12" />
+
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
@@ -75,11 +88,6 @@
   </a>
   <img width="12" />
 
-  <!-- Rust -->
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
-  </a>
-  <img width="12" />
 
   <!-- NestJS -->
   <a href="https://nestjs.com/" target="_blank">
@@ -117,18 +125,15 @@
   </a>
   <img width="12" />
 
-  <!-- ChatGPT (GPT) -->
-<a href="https://chatgpt.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=openai" height="50" alt="chatgpt logo" />
-  </a>
-  <img width="12" />
-
   <!-- Claude AI -->
 <a href="https://claude.ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Claude&logo=anthropic&label=&color=D97706&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="claude logo" />
   </a>
-  
 </div>
+
+
+
+ <img footer="24" />
 
 ###
 
@@ -143,6 +148,9 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
+
+
+
 
 ###
 
