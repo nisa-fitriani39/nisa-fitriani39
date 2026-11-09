@@ -1,5 +1,5 @@
-<h1 data-importer="text" align="center"> Hello there!👋 Welcome to my digital corner.
-I'm Nisa, an active student majoring in Business Information Systems, frontend developer, AI enthusiast, UI/UX designer. Take a look at what I've been building! 🚀 </h1>
+<h3 data-importer="text" align="center"> Hello there!👋 Welcome to my digital corner.
+I'm Nisa, an active student majoring in Business Information Systems, frontend developer, AI enthusiast, UI/UX designer. Take a look at what I've been building! 🚀 </h3>
 
 ###
 
