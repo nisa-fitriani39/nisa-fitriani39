@@ -3,39 +3,106 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+
+  <!-- Storybook -->
+  <a href="https://storybook.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" /
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html logo" />
+  </a>
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="pgadmin logo" />
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+
+  <!-- PostgreSQL / pgAdmin -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="pgadmin logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+
+  <!-- GraphQL -->
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+
+  <!-- Go -->
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+
+  <!-- Laravel -->
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="api logo" />
+
+  <!-- NestJS -->
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
+  <!-- Postman / API -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="api logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  </a>
+  <img width="12" />
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
+  </a>
 </div>
 
 ###
