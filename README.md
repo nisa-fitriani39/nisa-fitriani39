@@ -23,12 +23,6 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
   </a>
   <img width="12" />
 
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-  </a>
-  <img width="12" />
-
   <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
@@ -71,12 +65,6 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
   </a>
   <img width="12" />
 
-  <!-- GraphQL -->
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo" />
-  </a>
-  <img width="12" />
-
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
@@ -102,12 +90,6 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
   <img width="12" />
 
 
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo" />
-  </a>
-  <img width="12" />
-
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
@@ -129,6 +111,11 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
   <!-- Kiro -->
  <a href="https://kiro.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kiro&logo=databricks&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="kiro logo" />
+  </a>
+  <img width="12" />
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="powerbi logo" />
   </a>
   <img width="12" />
 
