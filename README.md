@@ -97,6 +97,7 @@
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
   </a>
+  <img width="12" />
 
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -105,27 +106,28 @@
   <img width="12" />
 
   <!-- Kiro -->
-  <a href="https://kiro.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/lobe-icons/public/icons/kiro.svg" height="50" alt="kiro logo" />
+ <a href="https://kiro.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kiro&logo=databricks&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="kiro logo" />
   </a>
   <img width="12" />
 
   <!-- Google Antigravity -->
-  <a href="https://ailogocollection.com/logos/google-antigravity" target="_blank">
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/lobe-icons/public/icons/antigravity.svg" height="50" alt="antigravity logo" />
+ <a href="https://ailogocollection.com/logos/google-antigravity" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Antigravity&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="antigravity logo" />
   </a>
   <img width="12" />
 
   <!-- ChatGPT (GPT) -->
-  <a href="https://chatgpt.com/" target="_blank">
+<a href="https://chatgpt.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=openai" height="50" alt="chatgpt logo" />
   </a>
   <img width="12" />
 
   <!-- Claude AI -->
-  <a href="https://claude.ai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/lobe-icons/public/icons/claude.svg" height="50" alt="claude logo" />
+<a href="https://claude.ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Claude&logo=anthropic&label=&color=D97706&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="claude logo" />
   </a>
+  
 </div>
 
 ###
@@ -137,7 +139,7 @@
   <a href="https://www.instagram.com/a.sya25_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:khoirunnisafitriani094@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khoirunnisafitriani094@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
