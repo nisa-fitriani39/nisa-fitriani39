@@ -117,7 +117,10 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
     <img src="https://img.shields.io/static/v1?message=Power+BI&logo=powerbi&label=&color=F2C811&logoColor=black&labelColor=&style=for-the-badge" height="32" alt="powerbi logo" />
   </a>
   <img width="12" />
-  <img width="12" />
+ <!-- Laragon -->
+  <a href="https://laragon.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Laragon&logo=laragon&label=&color=18181B&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="laragon logo" />
+  </a>
 
   <!-- Google Antigravity -->
  <a href="https://ailogocollection.com/logos/google-antigravity" target="_blank">
