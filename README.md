@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey there! Welcome to my digital corner. I'm Nisa crafting clean code, smooth user interfaces, and building awesome web apps. Grab a coffee and feel free to explore! ☕✨ </h1>
+<h1 data-importer="text" align="center">Hey there! Welcome to my digital corner. I'm Nisa Software engineering student, frontend enthusiast, AI enthusiast and problem solver. Take a look at what I've been building! 🚀 </h1>
 
 ###
 
