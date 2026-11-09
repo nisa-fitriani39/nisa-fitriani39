@@ -1,8 +1,21 @@
-<h1 data-importer="text" align="center">Hey there! Welcome to my digital corner. I'm Nisa Software engineering student, frontend enthusiast, AI enthusiast and problem solver. Take a look at what I've been building! 🚀 </h1>
+<h1 data-importer="text" align="center"> Hello there!👋 Welcome to my digital corner.
+I'm Nisa, an active student majoring in Business Information Systems, frontend developer, AI enthusiast, UI/UX designer. Take a look at what I've been building! 🚀 </h1>
 
 ###
 
 <div data-importer="techs" align="center">
+
+<!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Notion -->
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo" />
+  </a>
+  <img width="12" />
 
   <!-- React.js -->
   <a href="https://react.dev/" target="_blank">
