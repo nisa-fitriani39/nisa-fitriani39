@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hey there! Welcome to my digital corner. I'm Nisa Software engineering student, frontend enthusiast, AI enthusiast and problem solver. Take a look at what I've been building! 🚀 </h1>
 
 ###
 
@@ -26,19 +26,21 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+<div data-importer="Sosial" align="center">
+  <a href="https://www.linkedin.com/in/khoirun-nisa-fitriani-b46780316/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/a.sya25_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=nisa-fitriani39&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/nisa-fitriani39/nisa-fitriani39/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=nisa-fitriani39&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  
+  <img src="https://github-profile-readme-trophy.vercel.app/?username=nisa-fitriani39&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 ###
