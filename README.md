@@ -112,11 +112,11 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
  <a href="https://kiro.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kiro&logo=databricks&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="kiro logo" />
   </a>
-  <img width="12" />
-  <!-- Power BI -->
+<!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="powerbi logo" />
+    <img src="https://img.shields.io/static/v1?message=Power+BI&logo=powerbi&label=&color=F2C811&logoColor=black&labelColor=&style=for-the-badge" height="32" alt="powerbi logo" />
   </a>
+  <img width="12" />
   <img width="12" />
 
   <!-- Google Antigravity -->
