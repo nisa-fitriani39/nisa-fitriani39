@@ -170,3 +170,9 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
 </picture>
 
 ###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=nisa-fitriani39.nisa-fitriani39&"  />
+</div>
+
+###
