@@ -152,15 +152,6 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
   </a>
 </div>
 
-
-
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=nisa-fitriani39&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
 ###
 
 <picture data-importer="pacman">
