@@ -176,3 +176,9 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
 </div>
 
 ###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/nisa-fitriani39/nisa-fitriani39/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
