@@ -1,6 +1,6 @@
-<h3 data-importer="text" align="center"> Hello there!👋 Welcome to my digital corner.
+<h3 data-importer="text" align="center"> Hello there! Welcome to my digital corner👋
   
-I'm Nisa, an active student majoring in Business Information Systems, frontend developer, AI enthusiast, UI/UX designer. Take a look at what I've been building! 🚀 </h3>
+  I'm Nisa, an active student majoring in Business Information Systems, frontend developer, AI enthusiast, UI/UX designer. Take a look at what I've been building! 🚀 </h3>
 
 ###
 
@@ -15,12 +15,6 @@ I'm Nisa, an active student majoring in Business Information Systems, frontend d
   <!-- Notion -->
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo" />
-  </a>
-  <img width="12" />
-
-  <!-- React.js -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   </a>
   <img width="12" />
 
